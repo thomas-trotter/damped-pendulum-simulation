@@ -10,7 +10,7 @@ This repository simulates a **damped pendulum**, modelling its motion under grav
 ## 🛠️ **Installation**
 1. 📥 **Clone the Repository:**
 ```bash
-   git clone https://github.com/Climber1705/damped-pendulum-simulation.git
+   git clone https://github.com/thomas-trotter/damped-pendulum-simulation.git
    cd damped-pendulum-simulation
 ```
 2. 📦 **Install Dependencies:**
